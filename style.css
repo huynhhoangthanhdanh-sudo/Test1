@@ -1,0 +1,27 @@
+/* 'pink': {
+    '50': '#fff1f4',
+    '100': '#ffe3e9',
+    '200': '#ffccd8',
+    '300': '#ffb3c6',
+    '400': '#fe6e95',
+    '500': '#f83b73',
+    '600': '#e51960',
+    '700': '#c20e51',
+    '800': '#a20f4b',
+    '900': '#8b1046',
+    '950': '#4e0321',
+}, */
+
+body
+{
+  background: linear-gradient(to right,#ffe3e9,#ffccd8,#ffb3c6,#fe6e95);
+}
+
+.box
+{
+  text-align: center;
+  font-size:200%;
+  margin-top: 100px;
+  padding-left: 10px;
+  font-family: 'K2D',sans-serif;
+}
